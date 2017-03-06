@@ -16,7 +16,7 @@ namespace Comp1004_W2017_Class8
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new DataForm());
         }
     }
 }
